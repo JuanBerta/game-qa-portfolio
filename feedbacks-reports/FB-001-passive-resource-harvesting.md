@@ -1,10 +1,10 @@
 ---
-id: FB-001
-title: Passive Resource Harvesting Loops via Placeables
-game: BitCraft Online
-company: Clockwork Labs
-category: Feature Proposal / Economy & Professions
-status: Submitted
+id: "FB-001"
+title: "Passive Resource Harvesting Loops via Placeables"
+game: "BitCraft Online"
+company: "Clockwork Labs"
+category: "Feature Proposal / Economy & Professions"
+status: "Submitted"
 ---
 
 # FB-001: Passive Resource Harvesting Loops via Placeables

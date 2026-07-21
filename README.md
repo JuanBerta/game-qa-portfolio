@@ -7,7 +7,8 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 ### 🎮 BitCraft Online (Clockwork Labs)
 * **[FB-001] Passive Resource Harvesting via Placeables** | *Feature Proposal / Profession Loop*
 * **[FB-002] Market Bulk Trading & Fractional Pricing** | *Economy / UI Friction*
-* **[BUG-001] Float Precision Error In Teleportation | Transportation / Gameplay
+* **[BUG-001] Float Precision Error In Teleportation** | *Transportation / Gameplay*
+* **[BUG-002] UI Keybind Escape Close Error** | *UI / UX / Accessibility & Controls*
 
 ---
 

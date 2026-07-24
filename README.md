@@ -9,6 +9,7 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[FB-002] Market Bulk Trading & Fractional Pricing** | *Economy / UI Friction*
 * **[BUG-001] Float Precision Error In Teleportation** | *Transportation / Gameplay*
 * **[BUG-002] UI Keybind Escape Close Error** | *UI / UX / Accessibility & Controls*
+* **[BUG-003] Unparsed Rich Text Display in Quest Objective** | *UI / Formatting & Localization*
 
 ---
 

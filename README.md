@@ -11,7 +11,7 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[BUG-002] UI Keybind Escape Close Error** | *UI / UX / Accessibility & Controls*
 * **[BUG-003] Unparsed Rich Text Display in Quest Objective** | *UI / Formatting & Localization*
 * **[BUG-004] Misaligned Raycast Hitbox Attribute Tooltips** | *UI / Accessibility*
-
+* **[BUG-005] Map Navigation Unresponsive After Alt Tab** | *Controls / Window Focus & Input*
 ---
 
 ## 📋 Standard Bug Report Format

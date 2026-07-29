@@ -12,6 +12,7 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[BUG-003] Unparsed Rich Text Display in Quest Objective** | *UI / Formatting & Localization*
 * **[BUG-004] Misaligned Raycast Hitbox Attribute Tooltips** | *UI / Accessibility*
 * **[BUG-005] Map Navigation Unresponsive After Alt Tab** | *Controls / Window Focus & Input*
+* **[BUG-006] Transaction Failure with 'Coins don't match the offer' Error When Purchasing Multi-Priced Market Listings** | *Economy / Market & Trading*
 ---
 
 ## 📋 Standard Bug Report Format

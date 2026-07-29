@@ -13,6 +13,9 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[BUG-004] Misaligned Raycast Hitbox Attribute Tooltips** | *UI / Accessibility*
 * **[BUG-005] Map Navigation Unresponsive After Alt Tab** | *Controls / Window Focus & Input*
 * **[BUG-006] Transaction Failure with 'Coins don't match the offer' Error When Purchasing Multi-Priced Market Listings** | *Economy / Market & Trading*
+
+### 🎮 Bitjita (Bitcraft Online Third Party Website)
+
 ---
 
 ## 📋 Standard Bug Report Format

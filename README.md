@@ -13,10 +13,12 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[BUG-004] Misaligned Raycast Hitbox Attribute Tooltips** | *UI / Accessibility*
 * **[BUG-005] Map Navigation Unresponsive After Alt Tab** | *Controls / Window Focus & Input*
 * **[BUG-006] Transaction Failure with 'Coins don't match the offer' Error When Purchasing Multi-Priced Market Listings** | *Economy / Market & Trading*
+* **[BUG-008] Transient Engine Freeze Telemetry Stutter Alt Tab** | *Performance / Engine & Window Focus*
+* **[BUG-009] Movement Desync Broken Traveler Interaction Cart Hauling** | *Controls / Movement & NPC Interaction*
 
 ### 🎮 Bitjita (Bitcraft Online Third Party Website)
 * **[BUG-007] Bitjita Account Monitor False Audio Alert Alt-Tab** | *Account Monitor / Sound & Session State*
-
+* **[BUG-010] Bitjita Player Items Storage Not Displaying** | *Player Profile / Inventory & Cargo Storage*
 ---
 
 ## 📋 Standard Bug Report Format

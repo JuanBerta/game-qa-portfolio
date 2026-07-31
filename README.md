@@ -15,6 +15,7 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[BUG-006] Transaction Failure with 'Coins don't match the offer' Error When Purchasing Multi-Priced Market Listings** | *Economy / Market & Trading*
 * **[BUG-008] Transient Engine Freeze Telemetry Stutter Alt Tab** | *Performance / Engine & Window Focus*
 * **[BUG-009] Movement Desync Broken Traveler Interaction Cart Hauling** | *Controls / Movement & NPC Interaction*
+* **[BUG-011] Active Crafting Interrupts Reopening Station Menu** | *Crafting / Station UI & Interaction*
 
 ### 🎮 Bitjita (Bitcraft Online Third Party Website)
 * **[BUG-007] Bitjita Account Monitor False Audio Alert Alt-Tab** | *Account Monitor / Sound & Session State*

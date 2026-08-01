@@ -8,6 +8,8 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[FB-001] Passive Resource Harvesting via Placeables** | *Feature Proposal / Profession Loop*
 * **[FB-002] Market Bulk Trading & Fractional Pricing** | *Economy / UI Friction*
 * **[FB-003] Multi Worker Crafting Indicators World Labels** | *UI / Crafting & World Labels*
+* **[FB-004] Sort Crafting Station Recipes by Resource Input Tier** | *UI / Crafting & Station Menus*
+
 * **[BUG-001] Float Precision Error In Teleportation** | *Transportation / Gameplay*
 * **[BUG-002] UI Keybind Escape Close Error** | *UI / UX / Accessibility & Controls*
 * **[BUG-003] Unparsed Rich Text Display in Quest Objective** | *UI / Formatting & Localization*

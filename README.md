@@ -9,7 +9,6 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 * **[FB-002] Market Bulk Trading & Fractional Pricing** | *Economy / UI Friction*
 * **[FB-003] Multi Worker Crafting Indicators World Labels** | *UI / Crafting & World Labels*
 * **[FB-004] Sort Crafting Station Recipes by Resource Input Tier** | *UI / Crafting & Station Menus*
-
 * **[BUG-001] Float Precision Error In Teleportation** | *Transportation / Gameplay*
 * **[BUG-002] UI Keybind Escape Close Error** | *UI / UX / Accessibility & Controls*
 * **[BUG-003] Unparsed Rich Text Display in Quest Objective** | *UI / Formatting & Localization*
@@ -24,6 +23,7 @@ Welcome! This repository serves as a public archive of bug reports, quality-of-l
 ### 🎮 Bitjita (Bitcraft Online Third Party Website)
 * **[BUG-007] Bitjita Account Monitor False Audio Alert Alt-Tab** | *Account Monitor / Sound & Session State*
 * **[BUG-010] Bitjita Player Items Storage Not Displaying** | *Player Profile / Inventory & Cargo Storage*
+* **[FB-005] Add Total Crafts / Items Output Column to XP Calculator** | *XP Calculator / UI & Metrics*
 ---
 
 ## 📋 Standard Bug Report Format

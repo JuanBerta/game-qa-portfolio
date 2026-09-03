@@ -2,7 +2,7 @@
 
 Welcome! This repository serves as a public archive of bug reports, quality-of-life (QoL) suggestions, and systemic feature feedback I have authored for various games and studios.
 
-## 📁 Portfolio Index
+## 📁 Portfolio Index (Highlights)
 
 ### 🎮 BitCraft Online (Clockwork Labs)
 * **[FB-001] Passive Resource Harvesting via Placeables** | *Feature Proposal / Profession Loop*

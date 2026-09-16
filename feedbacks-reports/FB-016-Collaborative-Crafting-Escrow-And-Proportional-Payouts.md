@@ -28,3 +28,10 @@ Enhance the crafting station interface with a native, automated payment escrow a
 ## User Experience & Value
 * **Scam-Proof Player Economy:** Provides a secure, automated framework for commissioning labor and paying assistants without relying on trust-based manual trades.
 * **Fair & Granular Compensation:** Accurately rewards multiple contributors according to their exact effort, incentivizing community help on massive crafting projects.
+
+---
+
+## Screenshot
+
+![](feedbacks-reports\feedback-images\Fb-016.jpg)
+---

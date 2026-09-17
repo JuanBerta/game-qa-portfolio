@@ -33,6 +33,9 @@ Enhance the crafting station interface with a native, automated payment escrow a
 
 ## Screenshots
 
+### First Example
 ![Paid Assistance Example](feedback-images/Fb-016.jpg)
+
+### Second Example
 ![Paid Assitance Example 2](feedback-images/FB-016(2).jpg)
 ---

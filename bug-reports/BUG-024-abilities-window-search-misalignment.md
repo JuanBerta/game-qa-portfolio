@@ -38,4 +38,4 @@ When opening the **Abilities** panel and filtering items using the search bar, t
 
 ## Screenshot
 
-![Wrong Alignment in Abilities Window Example](/bug-reports-images/BUG-024.png)
+![Wrong Alignment in Abilities Window Example](bug-reports-images/BUG-024.png)

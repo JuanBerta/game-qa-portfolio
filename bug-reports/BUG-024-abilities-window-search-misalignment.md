@@ -35,3 +35,7 @@ When opening the **Abilities** panel and filtering items using the search bar, t
 ## Technical Observations & Potential Causes
 * **Layout Group Anchor / Padding Offset:** Filtering items in the search view may fail to reset the scroll view container padding or grid layout group offset, causing elements to maintain an incorrect baseline coordinate.
 * **Dynamic Item Template Spacing:** The search filter UI container may lack proper layout auto-reflow bindings, leading to orphan elements being positioned arbitrarily when hidden siblings are unmounted.
+
+## Screenshot
+
+![Wrong Alignment in Abilities Window Example](/bug-reports-images/BUG-024.png)

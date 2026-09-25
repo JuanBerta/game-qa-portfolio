@@ -40,4 +40,4 @@ Upon status effect activation or deactivation, the max effort value of the progr
 
 ## Screenshot
 
-![Distorted Progress Bar](bug-reports-images/BUG-025.png)
+![Distorted Progress Bar](bug-reports-images/Bug-025.png)

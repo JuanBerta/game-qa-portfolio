@@ -37,3 +37,7 @@ Upon status effect activation or deactivation, the max effort value of the progr
 ## Technical Observations & Potential Causes
 * **Stat Recalculation Race Condition:** When a player's active efficiency/speed stats change mid-craft, the UI client may momentarily unbind or clear the target total effort variable (`maxEffort = 1` or fallback default) while fetching the updated server-side recipe parameters.
 * **Asynchronous Buff Event Handler:** The event handler that recalibrates remaining effort upon buff state changes processes `currentProgress` before `totalRequiredProgress` is re-bound, leading to a temporary visual division by 1.
+
+## Screenshot
+
+![Distorted Progress Bar](bug-reports-images/BUG-025.png)

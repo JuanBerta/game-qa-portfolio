@@ -28,3 +28,6 @@ Determining remaining active time requires manual mental math based on current s
 ## Expected Impact
 * Provides immediate Quality of Life (QoL) clarity for resource management without requiring manual calculations.
 * Helps players time food consumption and stamina recovery cycles more efficiently during sustained crafting/gathering operations.
+
+## Screenshot
+![Example Crafting Station Job Image](feedback-images/FB-018.png)

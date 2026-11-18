@@ -1,4 +1,11 @@
 ---
+id: BUG-027
+title: "Gathering, Crafting, and Other Action Audio Cues Intermittently Stop Working; Restart Does Not Always Restore Them"
+game: BitCraft Online
+company: Clockwork Labs
+category: "Audio / System Mechanics"
+severity: Medium
+status: Submitted
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3

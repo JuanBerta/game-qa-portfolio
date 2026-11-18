@@ -1,4 +1,11 @@
 ---
+id: BUG-026
+title: "Other Player Volume Entry Lacks Numeric Display and Value Renders Left-Aligned Until Audio Panel Is Reopened"
+game: BitCraft Online
+company: Clockwork Labs
+category: "UI / Audio Settings"
+severity: Low
+status: Submitted
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
